@@ -1,0 +1,13 @@
+security:
+  user: gomonitor
+  port: 3306
+  password: '3267r!ef.ugsd'
+  db: ''
+host:
+  #- 10.10.62.185
+  #multisource
+  - 10.10.3.32
+
+
+    
+        
