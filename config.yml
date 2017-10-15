@@ -1,13 +1,7 @@
 security:
-  user: gomonitor
+  user: root
   port: 3306
-  password: '3267r!ef.ugsd'
+  password: 'XXXXX'
   db: ''
 host:
-  #- 10.10.62.185
-  #multisource
-  - 10.10.3.32
-
-
-    
-        
+  - 127.0.0.1
